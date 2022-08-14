@@ -1,0 +1,76 @@
+body{
+   background-position: center;
+   background-size: cover;
+}
+
+h3{
+    color: black;
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 7;
+    font-size: 35px;
+    text-shadow: 1px 1px 30px #000000;
+}
+
+#google{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: 'Satisfy', cursive;
+    letter-spacing: 7;
+}
+
+#vs{
+    font-family: 'Satisfy', cursive;
+    font-weight: bold;
+    margin-right: 3%;
+    font-size: 30px;
+    color: rgb(0, 87, 217);
+    text-shadow: 1px 1px 30px rgb(157, 196, 255);
+    letter-spacing: 10;
+}
+
+.btn-primary{
+    color: white;
+    font-weight: bold;
+    margin-right: 3%;
+    font-size: 18px;
+    font-family: 'Satisfy', cursive;
+    letter-spacing: 7;
+}
+
+b{
+    color: purple;
+}
+
+.test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4{
+    margin-top: 15px;
+    background-color: rgb(164, 164, 164);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(255, 255, 255);
+    width:99%;
+    margin-bottom: 15px;
+}
+
+.white1,.white2,.white3,.white4{
+    color: white;
+}
+
+.img{
+    width: 80%;
+    height: 55%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+span{
+    color: red;
+    font-weight: bold;
+}
+
+h4{
+    color: white;
+    font-weight: bold;
+}
+
